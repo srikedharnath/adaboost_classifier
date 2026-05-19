@@ -146,10 +146,3 @@ The application predicts whether the mushroom is:
 
 based on mushroom characteristics.
 
----
-
-# Author
-
-Akshay
-
-Machine Learning Mini Project
